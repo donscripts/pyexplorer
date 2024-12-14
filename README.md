@@ -21,7 +21,7 @@ uma unidade de disco, 'c:', entao, ele transforma a string em um array onde, se,
 # *pesquisa.py*:
 serve para a pesquisa de arquivos na pasta aberta, essa função é utilizada no input de pesquisa da janela
 
-módulos usados:
+# módulos usados:
 1. os
 2. sys
 3. tkinter
