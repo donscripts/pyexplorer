@@ -15,7 +15,7 @@ Os scripts *main.py*/*min.py* digamos que sejam os mesmos os arquivos pois, o *m
 ele serve para criar uma string que seria no caso, o caminho relativo, ele verifica se o caminho contém 
 uma unidade de disco, 'c:', entao, ele transforma a string em um array onde, se, o array, é maior que 1, não 
 é root, 'c:', se for, é root, se é igual a 2, retorna 'c:/users' por exemplo, se é maior ou igual a 3, retorna 
-'../<pasta pai>/<pasta filho>', exemplo:
+'../&lsaquo;pasta pai&rsaquo;/&lsaquo;pasta filho&rsaquo;', exemplo:
 'C:/Users/Teste' => '../Users/Teste'
 
 # *pesquisa.py*:
